@@ -1,0 +1,12 @@
+html,
+body {
+  overflow: hidden;
+  background-image: url("https://img.freepik.com/free-vector/flat-design-forest-landscape_23-2149155031.jpg?w=900&t=st=1681390628~exp=1681391228~hmac=2296f7bad9293adfa0922eedd6de5ee1637615e24fe88aa2d35173cb7bb64c72");
+}
+
+.main {
+  /* background-image: url("https://img.freepik.com/free-photo/desktop-with-notebook-photo-camera_23-2148128796.jpg?size=626&ext=jpg&ga=GA1.1.2016647818.1681387746&semt=ais"); */
+  width: 100vw;
+  height: 100vh;
+  overflow: none;
+}
